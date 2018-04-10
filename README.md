@@ -1,2 +1,4 @@
 # fullstack-modernweb-ilp-projects
-My first github repository
+
+Install node_js ,
+Install angular and mongo DB to use this code
